@@ -6,10 +6,11 @@ public class Cubo extends Cuadrado {
     }
 
     public Double calcularVolumen() {
-        return 0.0;
+        return lado * lado * lado;
     }
 
+    @Override
     public Double calcularPerimetro() {
-        return 0.0;
+        return lado * 12.0;
     }
 }
