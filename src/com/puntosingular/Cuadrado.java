@@ -8,10 +8,10 @@ public class Cuadrado {
     }
 
     public Double calcularArea() {
-        return 0.0;
+        return lado * lado;
     }
 
     public Double calcularPerimetro() {
-        return 0.0;
+        return lado * 4;
     }
 }
