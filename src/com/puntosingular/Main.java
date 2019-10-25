@@ -41,6 +41,9 @@ public class Main {
             System.out.println();
             System.out.println();
         } while (lado != 0);
+
+        System.out.println();
+        System.out.println("¡Hasta luego!");
     }
 
     public static void mostrarMenuOperaciones(Double lado) {
