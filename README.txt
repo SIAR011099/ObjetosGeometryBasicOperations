@@ -11,7 +11,7 @@ Validar instalación de JAVA.
 
 Compilación.
 1. Navegar hasta el directorio "src/com/puntosingular" del proyecto.
-2. Sobre dicha ubicación, ejecutar el siguiente comando: `javac ObjetosGeometryBasicOperations.java`
+2. Sobre dicha ubicación, ejecutar el siguiente comando: `javac ObjetosGeometryBasicOperations.java Cuadrado.java Cubo.java`
 3. Lo anterior generará la clase RomanosConverter.class en el mismo directorio.
 
 
